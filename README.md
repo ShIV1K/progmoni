@@ -25,3 +25,8 @@
 РасходиД ФД -
 ПроводкаяП - 
 НалогИРС ФС -
+https://codeberg.org/odswn/odswn            -                   https://codeberg.org/odswn/odswn.git
+
+https://github.com/ShIV1K/accounting
+
+https://github.com/dodster67/dodster
