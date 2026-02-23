@@ -30,3 +30,9 @@ https://codeberg.org/odswn/odswn            -                   https://codeberg
 https://github.com/ShIV1K/accounting
 
 https://github.com/dodster67/dodster
+
+
+СК Этапы
+В работе
+Завершен
+Запланирован
